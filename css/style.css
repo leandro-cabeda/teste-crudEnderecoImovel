@@ -1,0 +1,122 @@
+
+#dialog_Modal_Mensagem{
+    margin: 12% 0 0 30%;
+}
+
+
+.modal-content {
+    border-radius: 10px;
+}
+
+p{
+    margin: 0;
+}
+
+.container-table{
+    background: #beb7b7;
+    border-radius: 36px;
+    padding: 1%;
+    width: 99%;
+}
+
+.descricao{
+    color:white;
+    font-weight: bold;
+}
+
+#locarImovel, #listaImovel{
+    border: 1px solid;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.nav-pills a{
+    color: white;
+}
+
+.nav-pills a:hover{
+    color: black;
+}
+.navbar-form{
+    padding: 0;
+}
+
+#locarImovel tr, #locarImovel th,
+#listaImovel tr, #listaImovel th{
+    background: oldlace;
+    text-align: center;
+}
+
+#locarImovel tr td,
+#listaImovel tr td{
+    text-align: center;
+}
+
+.form-control{
+    border:1px solid blue;
+    border-radius: 18px;
+    
+}
+
+.modal-footer{
+    text-align: center;
+}
+
+.modal-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+}
+
+.label-alinhamento{
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+#btnSave{
+    margin-right: 8%;
+    margin-top: 10px;
+}
+
+textarea{
+    resize: none;
+}
+
+.w-40{
+    width: 40%;
+}
+
+.w-70{
+    width: 70%;
+}
+
+.w-80{
+    width: 80%;
+}
+
+#btnAdd{
+    margin-bottom: 6px;
+    padding: 0;
+}
+
+.text-color{
+    color: black;
+}
+
+#formSearch{
+    width: 100%;
+}
+
+#formSearch p{
+    margin-bottom: 5px;
+}
+
+.thTable{
+    width: 75px;
+}
+
+.thText{
+    width: 300px;
+}
